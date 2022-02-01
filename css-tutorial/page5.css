@@ -1,0 +1,37 @@
+a:hover {
+    background: black;
+    color: white;
+}
+
+
+a:active {
+    background: lightgray;
+    color: red;
+}
+
+/* a:visited {
+    color: gray;
+} */
+
+body {
+    background: #43982f;
+
+}
+
+#wrapper {
+
+    margin: 0 auto;
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+}
+
+header {
+    padding: 0px 0px 10px 0px;
+}
+
+#horzNav:hover {
+    display: block;
+    background: black;
+    color: whitesmoke;
+}

@@ -1,0 +1,38 @@
+div {
+    background: purple;
+    color: white;
+}
+
+#quote {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.movie {
+    color: lightgray;
+    background: steelblue;
+}
+
+
+span#author {
+    text-transform: uppercase;
+}
+
+
+#cities ol li {
+    color: blue;
+}
+
+#cities ul li {
+    color: green;
+}
+
+
+h3 + p {
+    background: black;
+    color: white;
+}
+
+p[id] {
+    background: lightgray;
+}

@@ -1,0 +1,10 @@
+ol{
+    width: 100px;
+    padding: -5px;
+    margin: 100px auto;
+    background: black;
+    color: white;
+
+    max-height: 400px;
+    overflow: auto;
+}
